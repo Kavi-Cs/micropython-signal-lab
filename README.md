@@ -1,4 +1,4 @@
-# micropython-signal-lab
+# micropython-signal-FFT
 
 # Linux Environment Setup
 
